@@ -1,0 +1,13 @@
+.main {
+    background-color: aqua;   
+    margin:auto; 
+}
+.ToDoList{
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #efefef;
+    align-items: center;
+    width: 50%;
+}

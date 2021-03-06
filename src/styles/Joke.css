@@ -1,0 +1,12 @@
+.Product{
+    background-color: rgb(163, 35, 35);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #efefef;
+    align-items: center;
+    width: 50%;
+}
+.ProductList{
+    align-items: center;
+}
